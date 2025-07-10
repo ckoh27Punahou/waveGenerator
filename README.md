@@ -14,7 +14,7 @@ The 3D printed parts (for working models) should be printed out of PLA or PETG. 
 
 ## CAD BOM
 
-The [Bill of Materials](https://github.com/ckoh27Punahou/waveGenerator/blob/main/DocsWave%20Generator%20BOM%20Final%20-%20Wave%20Generator%20BOM.csv) to all of the COTS parts is posted as a .csv with the CAD files. 
+The [Bill of Materials](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/waveGeneratorBOM.csv) to all of the COTS parts is posted as a .csv within the Docs folder. 
 
 # Source Code
 
