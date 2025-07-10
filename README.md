@@ -34,8 +34,10 @@ The following libraries need to be installed (either using Platform IO or the Ar
 
 # Electrical Wiring
 
-The electrical wiring diagrams are posted as images in the "Electrical_Wiring" folder. 
+Electrical wiring diagram is posted in the Docs folder ("waveGeneratorElectricalDiagram.pdf"). 
 
 # Assembly
 
 Assembly for this project is relatively simple. It goes as follows: electrical assembly and wiring, installing heat-set inserts, physical assembly, belt tensioning, and finally mounting. 
+
+Full explanation of assembly is posted in the Docs folder ("AssemblyInstructions.md")
