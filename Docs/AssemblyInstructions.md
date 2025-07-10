@@ -121,5 +121,15 @@ Place full assembly into the tank. Place second outer mount on the non-motor sid
 
 ***Assembly of wave generator is completed***
 
-## Step 4: Electrical Assembly
+## Step 4: Uploading Code
+
+Plug a data-capable USB-C cable into the Arduino Nano ESP32. Using either Platform IO or the Arduino IDE, make sure to import the following libraries (***NOT #include***): 
+
+1. AccelStepper
+2. hd44780
+3. (For PIO, identify path) hd44780
+
+Using the computer port that the USB-C cable, upload the designed sketches (***Use the program either designed for Platform IO or Arduino IDE***). Once it states that uploding is complete, unplug the USB-C cable. 
+
+***Transition to [User Manual]()
 
