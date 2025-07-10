@@ -14,9 +14,7 @@ The 3D printed parts (for working models) should be printed out of PLA or PETG. 
 
 ## CAD BOM
 
-The BOM to all of the COTS parts is posted below: 
-
-[Bill of Materials](https://docs.google.com/spreadsheets/d/1wk3qhpuLEywlBrQuPQ8Gh4zty0OR3FF_Z6KYgeFhBao/edit?usp=sharing)
+The [Bill of Materials](https://docs.google.com/spreadsheets/d/1wk3qhpuLEywlBrQuPQ8Gh4zty0OR3FF_Z6KYgeFhBao/edit?usp=sharing) to all of the COTS parts is posted as a .csv with the CAD files. 
 
 # Source Code
 
@@ -37,3 +35,7 @@ The following libraries need to be installed (either using Platform IO or the Ar
 # Electrical Wiring
 
 The electrical wiring diagrams are posted as images in the "Electrical_Wiring" folder. 
+
+# Assembly
+
+Assembly for this project is relatively simple. It goes as follows: electrical assembly and wiring, installing heat-set inserts, physical assembly, belt tensioning, and finally mounting. 
