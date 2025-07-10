@@ -131,5 +131,5 @@ Plug a data-capable USB-C cable into the Arduino Nano ESP32. Using either Platfo
 
 Using the computer port that the USB-C cable, upload the designed sketches (***Use the program either designed for Platform IO or Arduino IDE***). Once it states that uploding is complete, unplug the USB-C cable. 
 
-***Transition to [User Manual]()
+***Transition to [User Manual](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/UsageInstruction.md) for usage instructions***
 
