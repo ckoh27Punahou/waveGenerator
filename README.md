@@ -14,7 +14,7 @@ The 3D printed parts (for working models) should be printed out of PLA or PETG. 
 
 ## CAD BOM
 
-The [Bill of Materials](https://docs.google.com/spreadsheets/d/1wk3qhpuLEywlBrQuPQ8Gh4zty0OR3FF_Z6KYgeFhBao/edit?usp=sharing) to all of the COTS parts is posted as a .csv with the CAD files. 
+The [Bill of Materials](https://github.com/ckoh27Punahou/waveGenerator/blob/main/DocsWave%20Generator%20BOM%20Final%20-%20Wave%20Generator%20BOM.csv) to all of the COTS parts is posted as a .csv with the CAD files. 
 
 # Source Code
 
@@ -34,10 +34,10 @@ The following libraries need to be installed (either using Platform IO or the Ar
 
 # Electrical Wiring
 
-Electrical wiring diagram is posted in the Docs folder ("waveGeneratorElectricalDiagram.pdf"). 
+[Electrical wiring diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/waveGeneratorElectricalDiagram.pdf) is posted in the Docs folder ("waveGeneratorElectricalDiagram.pdf"). 
 
 # Assembly
 
 Assembly for this project is relatively simple. It goes as follows: electrical assembly and wiring, installing heat-set inserts, physical assembly, belt tensioning, and finally mounting. 
 
-Full explanation of assembly is posted in the Docs folder ("AssemblyInstructions.md")
+[Full assembly instructions](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/AssemblyInstructions.md) is posted in the Docs folder ("AssemblyInstructions.md")
