@@ -63,5 +63,63 @@ When inserting, make sure to simultaniously insert two linear bearings as shown 
 
 ![Carbon Fiber Rod Insert](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/carbonFiberRodInsert.png)
 
+### Step 3c: Assemble Carrier
 
+Press fit linear bearings into the central carrige, and then screw the top cover onto the central carrige (as displayed below) using M4x20mm screws. 
+
+![Carrier Assembly Diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/carrierAssembly.png)
+
+### Step 3d: Assemble Lower Mount
+
+Press fit 17mmx6mmx6mm bearing into lower pulley. Place pulley (with bearing) and pulley spacer onto 25mmx6mm steel dowel, and then insert into location on lower mount (displayed in image below).
+
+Place lower seals to cover and secure 25mmx6mm steel dowel, and then secure with M4x20mm screws. 
+
+![Lower Mount Assembly Diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/lowerMountAssembly.png)
+
+### Step 3e: Insert Vertical Carbon Fiber Rods
+
+Insert two 300mmx8mm Carbon Fiber Rods into the lower mount. Proceed to use M4x16mm screws to secure the carbon fiber rods (displayed in the image below - similar to set screws).
+
+![Carbon Fiber Rod Insert](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/verticalCarbonFiber.png)
+
+### Step 3f: Attach Motor Mount to Carbon Fiber Rods
+
+Place the motor mount on the top of the two previously mounted vertical carbon fiber rods. Attach the front plate, and secure to the lower and motor mounts using M4x16mm screws. Similarly to the previous step, secure the carbon fiber rods with side M4x16mm screws (again, similar to set screws). 
+
+![Motor Mount Carbon Fiber Insert](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/motorMountCarbonFiber.png)
+
+### Step 3g: Wedge Attachment
+
+Place the front wedge stilts aligned with the central carrier. Use six M4x20mm screws to secure the wedge to the central carrier. 
+
+![Wedge Attachment Image](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/wedgeMount.png)
+
+### Step 3h: Tank Mount 1
+
+Place one of the outer mounts on the motor side of the motor mount, and secure it with two M4x20mm bolts. 
+
+![Tank Mount 1](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/tankMount1.png)
+
+### Step 3i: Mounting GT2 Pulley
+
+Place 20T GT2 pulley onto the stepper motor shaft. 
+
+![Pulley Mounting](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/pulleyMount.png)
+
+### Step 3j: Belt Mounting
+
+Place belt around lower pulley and belt pulley, and place ends in the top and the bottom of the central carrier (not displayed). Place belt securer and M4x20mm bolt, and secure belt (with serrated side facing the belt and matching teeth) - make sure the belt is properly tensioned. 
+
+![Belt Mounting](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/beltGrabber.png)
+
+### Step 3k: Tank Mounting
+
+Place full assembly into the tank. Place second outer mount on the non-motor side of the motor mount, and secure around the tank using two M4x20mm screws.
+
+![Tank Mounting](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/assemblyImages/tankMount2.png)
+
+***Assembly of wave generator is completed***
+
+## Step 4: Electrical Assembly
 
