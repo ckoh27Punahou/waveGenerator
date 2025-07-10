@@ -10,7 +10,7 @@
 6. 2mm Hex Key
 7. PLA
 8. 20 AWG Wire
-9. Du Pont Jumper Cables
+9. Dupont Jumper Cables
 10. Wire Cutters
 11. Wire Stripper
 12. Heat Shrink/Electrical Tape
@@ -24,3 +24,15 @@ Construct the electrical diagram as shown ("waveGeneratorElectricalDiagram"). Th
 **NOTE: For this step, use a soldering iron tip either specifically designed for heat set inserts, or be comfortable having potential PLA contamintation on the tip of the soldering iron.**
 
 Using M4 Heat Set Inserts (included in the COTS BOM), place heat set inserts in all of the following designated locations (images shown below). 
+
+Upper Diagram:
+
+![Upper Diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/heatSetInserts/upperDiagram.png)
+
+Lower Diagram: 
+
+![Lower Diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/heatSetInserts/lowerDiagram.png)
+
+Wedge Diagram:
+
+![Wedge Diagram](https://github.com/ckoh27Punahou/waveGenerator/blob/main/Docs/imageDiagrams/heatSetInserts/wedgeDiagram.png)
