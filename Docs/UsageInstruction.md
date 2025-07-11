@@ -24,7 +24,7 @@ It will then ask to set starting depth and tank depth. The amplitude rotary enco
 
 After both starting and tank depth are confirmed, it will then ask for a **starting frequency and starting amplitude**. The amplitude rotary encoder corresponds with amplitude, and the frequency rotary encoder corresponds with frequency. To confirm amplitude, press down on the amplitude rotary encoder. To confirm frequency, press down on the frequency rotary encoder. 
 
-***NOTE: Amplitude refers to the target amplitude of the WAVE, not the stroke. The stroke and rotation of the motor are calculated using all inputs***
+***NOTE: Amplitude refers to the target amplitude of the WAVE, not the stroke. The stroke and rotation of the motor are calculated using all inputs.***
 
 After a few brief seconds, it should start making waves. 
 

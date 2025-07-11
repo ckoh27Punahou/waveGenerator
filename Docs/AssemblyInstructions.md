@@ -123,11 +123,17 @@ Place full assembly into the tank. Place second outer mount on the non-motor sid
 
 ## Step 4: Uploading Code
 
+Prior to uploading code, choose to use either Visual Studio Code's Platform IO or the official Arduino IDE (easier). Download the corresponding file from this repository. 
+
 Plug a data-capable USB-C cable into the Arduino Nano ESP32. Using either Platform IO or the Arduino IDE, make sure to import the following libraries (***NOT #include***): 
 
 1. AccelStepper
 2. hd44780
 3. (For PIO, identify path) hd44780
+
+[How to install libraries in Platform IO](https://community.platformio.org/t/adding-libraries-to-project/25807)
+
+[How to install libaries in Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
 Using the computer port that the USB-C cable, upload the designed sketches (***Use the program either designed for Platform IO or Arduino IDE***). Once it states that uploding is complete, unplug the USB-C cable. 
 
