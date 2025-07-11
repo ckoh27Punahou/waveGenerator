@@ -18,11 +18,7 @@ The [Bill of Materials](https://github.com/ckoh27Punahou/waveGenerator/blob/main
 
 # Source Code
 
-This wave generator uses code to take user input via rotary encoders and calculate the proper settings to generate the user specified waves. 
-
-Links to papers used as resources are posted below: 
-
-[Paper](https://google.com)
+This wave generator uses code to take user input via rotary encoders and calculate the proper settings to generate the user specified waves.
 
 ## Development Platforms
 
